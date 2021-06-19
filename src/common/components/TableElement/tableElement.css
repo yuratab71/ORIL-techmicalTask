@@ -1,0 +1,22 @@
+.active {
+    color: #7173F1;
+}
+
+.disable {
+    color: #F27BB8;
+}
+
+.element_wrapper {
+    border-top: 3px solid #F4F5F7;
+    padding: 1rem 2rem 1rem 2rem;
+    display: grid;
+    grid-template-columns: 2fr 4fr 1fr;
+}
+
+.element_date {
+    font-weight: 200;
+}
+
+.element_name {
+    font-weight: 500;
+}

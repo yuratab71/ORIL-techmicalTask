@@ -1,0 +1,29 @@
+.graph_header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.chart_wrapper {
+    width: 100%;
+    margin-top: 2rem;
+}
+
+.graph_button {
+    padding: 1rem 2rem;
+    font-size: 24px;
+    background: none;
+    font-weight: 200;
+    border: none;
+    cursor: pointer;
+    color: grey;
+}
+
+.graph_title {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.graph_button_wrapper {
+    border: 3px solid #F4F5F7;
+    border-radius: 10px;
+}

@@ -1,0 +1,19 @@
+.search_bar_wrapper {
+    border: 3px solid #F4F5F7;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    margin: 2rem 0 2rem 0;
+    width: 300px;
+    background-color: #F9FAFB;
+}
+
+.search_input {
+    margin-left: 5px;
+    background: none;
+    border: none;
+    outline: none;
+    font-size: 24px;
+    color: #858991;
+}

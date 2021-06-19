@@ -1,0 +1,42 @@
+.details_container {
+    width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5rem;
+    border: 3px solid #F4F5F7;
+    padding: 3rem;
+}
+
+.details_wrapper {
+    border-radius: 10px;
+}
+
+.total_detail {
+    display: flex;
+    margin-top: 1rem;
+}
+
+.detail_element {
+    margin-right: 2rem;
+}
+
+.details_amount {
+    margin-top: 1rem;
+}
+
+.cash_name {
+    font-size: 20px;
+    line-height: 44px;
+    font-weight: 200;
+}
+
+.cash_info {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.cash_info_total {
+    font-size: 44px;
+    font-weight: bold;
+}
+

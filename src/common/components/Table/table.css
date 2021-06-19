@@ -1,0 +1,22 @@
+.table_wrapper {
+    font-size: 24px;
+    border: 3px solid #F4F5F7;
+    border-radius: 10px;
+}
+
+.table_header {
+    background-color:  #F9FAFB;
+    padding: 1rem 2rem 1rem 2rem;
+    display: grid;
+    grid-template-columns: 2fr 4fr 1fr;
+    color: #858991;
+}
+
+.header_option {
+    vertical-align: bottom;
+}
+
+.header_menu_wrapper {
+    display: flex;
+    align-items: center;
+}
